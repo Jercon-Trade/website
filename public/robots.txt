@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://jercontrade.com
+
+# Sitemaps
+Sitemap: https://jercontrade.com/sitemap.xml
