@@ -80,7 +80,7 @@ export default function Contact() {
               Contact Us
             </Heading>
             <Text as="p" sx={styles.description}>
-              Main Branch: Nappaccu Pequeño, Reina Mercedez, Cauayan, Isabela
+              Main Branch: District II (POB.) 3305 City of Cauayan, Isabela, Philippines
             </Text>
             <Text as="p" sx={styles.description}>
               Province Branch: Bulacan Plant, Barangay Pulo, San Rafael, Bulacan
