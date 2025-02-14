@@ -11,11 +11,11 @@ import Support from 'assets/key-feature/support.svg';
 const data = [
   {
     id: 1,
-    imgSrc: Performance,
+    imgSrc: Subscription,
     altText: 'Sewage Treatment Plant',
     title: 'Sewage Treatment Plant',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'We build facilities for removing wastewater contaminants.',
   },
   {
     id: 2,
@@ -23,33 +23,33 @@ const data = [
     altText: 'Plumbing Services',
     title: 'Plumbing Services',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'We provide end-to-end water supply services to a building / home.',
   },
   {
     id: 3,
     imgSrc: Subscription,
+    altText: 'Prefab Container Houses',
+    title: 'Prefab Container Houses',
+    text:
+      'We supply and install prefabricated container houses.',
+  },
+  {
+    id: 4,
+    imgSrc: Performance,
     altText: 'Motor Control Panels',
     title: 'Motor Control Panels',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'We cater motor control panel products and services.',
   },
-  // {
-  //   id: 4,
-  //   imgSrc: Support,
-  //   altText: 'Customer Support',
-  //   title: 'Customer Support',
-  //   text:
-  //     'Get your blood tests delivered at home collect a sample from the your blood tests.',
-  // },
 ];
 
 export default function KeyFeature() {
   return (
-    <section sx={{ variant: 'section.keyFeature' }} id="feature">
+    <section sx={{ variant: 'section.keyFeature' }} id="service">
       <Container>
         <SectionHeader
-          slogan="Whats the function"
-          title="Our Services"
+          slogan="Our Services"
+          title="Services to create value"
         />
 
         <Grid sx={styles.grid}>

@@ -137,6 +137,14 @@ const data = [
     text:
       'We believe it’s important for everyone to have access to software – especially when it comes to digital learning be navigated by keyboard and screen readers.',
   },
+  {
+    id: 16,
+    imgSrc: Support,
+    altText: 'Prefab Container House',
+    title: 'Prefab Container House',
+    text:
+      'We believe it’s important for everyone to have access to software – especially when it comes to digital learning be navigated by keyboard and screen readers.',
+  },
 ];
 
 export default function Feature() {

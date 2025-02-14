@@ -6,6 +6,8 @@ import SEO from 'components/seo';
 import Layout from 'components/layout';
 import Banner from '../sections/banner';
 import KeyFeature from '../sections/key-feature';
+import PrefabUsageSection from 'sections/prefab-usage-section';
+import PrefabSection from 'sections/prefab-section';
 import ServiceSection from '../sections/service-section';
 import Product from '../sections/product';
 import CoreFeature from '../sections/core-feature';
@@ -28,8 +30,10 @@ export default function IndexPage() {
               description="Official website of Jercon Trade Construction Development Corporation" 
           />
           <Banner />
-          {/* <KeyFeature /> */}
-          <ServiceSection />
+          <PrefabSection />
+          <PrefabUsageSection />
+          <KeyFeature />
+          {/* <ServiceSection /> */}
           <Product />
           {/* <CoreFeature /> */}
           {/* <WorkFlow /> */}

@@ -26,9 +26,10 @@ export default function Banner() {
           <Button variant="primary" onClick={handleClick}>Contact Us</Button>
         </Box>
 
-        <Box sx={styles.banner.imageBox}>
+        {/* EGO Note: Commented out hero section (replaced by PrefabSection) */}
+        {/* <Box sx={styles.banner.imageBox}>
           <Image src={BannerImg} alt="banner" />
-        </Box>
+        </Box> */}
       </Container>
     </section>
   );
