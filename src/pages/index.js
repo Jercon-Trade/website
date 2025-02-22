@@ -18,6 +18,9 @@ import TestimonialCard from '../sections/testimonial';
 import BlogSection from '../sections/blog-section';
 import Subscribe from '../sections/subscribe';
 import Contact from 'sections/contact';
+import About from 'sections/about';
+import FlooringSection from 'sections/flooring-section';
+import FlooringProjectsSection from 'sections/flooring-projects-section';
 
 export default function IndexPage() {
   return (
@@ -32,6 +35,8 @@ export default function IndexPage() {
           <Banner />
           <PrefabSection />
           <PrefabUsageSection />
+          <FlooringSection />
+          <FlooringProjectsSection />
           <KeyFeature />
           {/* <ServiceSection /> */}
           <Product />
@@ -42,6 +47,7 @@ export default function IndexPage() {
           {/* <TestimonialCard /> */}
           <BlogSection />
           {/* <Subscribe /> */}
+          <About/>
           <Contact/>
         </Layout>
       </StickyProvider>

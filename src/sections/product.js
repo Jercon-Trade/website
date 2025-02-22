@@ -143,7 +143,95 @@ const data = [
     altText: 'Prefab Container House',
     title: 'Prefab Container House',
     text:
-      'We believe it’s important for everyone to have access to software – especially when it comes to digital learning be navigated by keyboard and screen readers.',
+      'N/A',
+  },
+  {
+    id: 17,
+    imgSrc: Support,
+    altText: 'Maple Basketball Wood Flooring',
+    title: 'Maple Basketball Wood Flooring',
+    text:
+      'N/A',
+  },
+  {
+    id: 18,
+    imgSrc: Support,
+    altText: 'PVC All Sports Flooring',
+    title: 'PVC All Sports Flooring',
+    text:
+      'N/A',
+  },
+  {
+    id: 19,
+    imgSrc: Support,
+    altText: 'Polypropylene Interlocking Tiles All Sports Flooring',
+    title: 'Polypropylene Interlocking Tiles All Sports Flooring',
+    text:
+      'N/A',
+  },
+  {
+    id: 20,
+    imgSrc: Support,
+    altText: 'Silicon Polyurethane Tiles All Sports Flooring (SPU)',
+    title: 'Silicon Polyurethane Tiles All Sports Flooring (SPU)',
+    text:
+      'N/A',
+  },
+  {
+    id: 21,
+    imgSrc: Support,
+    altText: 'Rubber Running Tracks Flooring',
+    title: 'Rubber Running Tracks Flooring',
+    text:
+      'N/A',
+  },
+  {
+    id: 22,
+    imgSrc: Support,
+    altText: 'Scoreboards and Backstop for All Sports',
+    title: 'Scoreboards and Backstop for All Sports',
+    text:
+      'N/A',
+  },
+  {
+    id: 23,
+    imgSrc: Support,
+    altText: '4 Phase LED Scoreboard',
+    title: '4 Phase LED Scoreboard',
+    text:
+      'N/A',
+  },
+  {
+    id: 24,
+    imgSrc: Support,
+    altText: 'Fixed Bleacher Seat',
+    title: 'Fixed Bleacher Seat',
+    text:
+      'N/A',
+  },
+  {
+    id: 25,
+    imgSrc: Support,
+    altText: 'EPDM Rubber Granules Flooring for Playgrounds',
+    title: 'EPDM Rubber Granules Flooring for Playgrounds',
+    text:
+      'N/A',
+  },
+  {
+    id: 26,
+    imgSrc: Support,
+    altText: 'Antibacterial Vinyl Floorings',
+    title: 'Antibacterial Vinyl Floorings',
+    text:
+      'N/A',
+  },
+  {
+    id: 27,
+    imgSrc: Support,
+    altText: 'Playground & Wellness Equipment',
+    title: 'Playground & Wellness Equipment',
+    text:
+      'N/A',
   },
 ];
 

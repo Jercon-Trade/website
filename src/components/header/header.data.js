@@ -20,6 +20,10 @@ export default [
     label: 'Projects',
   },
   {
+    path: 'about',
+    label: 'About',
+  },
+  {
     path: 'contact',
     label: 'Contact Us',
   },
